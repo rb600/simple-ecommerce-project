@@ -1,0 +1,4 @@
+{ "_id" : { "$oid" : "60a3b21b96697ddc8b01a1c1" }, "name" : "nike shoes", "category" : "shoe", "price" : 120.0, "description" : "red colored shoes...", "weight" : 10.0, "width" : 30.0, "height" : 10.0 }
+{ "_id" : { "$oid" : "60a3b21b96697ddc8b01a1c2" }, "name" : "iphone12", "category" : "electronics", "price" : 999.0, "description" : "black iphone 12...", "weight" : 300.0, "width" : 10.0, "height" : 10.0 }
+{ "_id" : { "$oid" : "60a3b21b96697ddc8b01a1c3" }, "name" : "jenga", "category" : "toys", "price" : 15.0, "description" : "building blocks game", "weight" : 500.0, "width" : 50.0, "height" : 50.0 }
+{ "_id" : { "$oid" : "60a3b21b96697ddc8b01a1c4" }, "name" : "kleenex", "category" : "hygiene", "price" : "30", "description" : "facial tissues", "weight" : 500.0, "width" : 50.0, "height" : 100.0 }

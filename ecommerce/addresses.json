@@ -1,0 +1,4 @@
+{ "_id" : { "$oid" : "60a3a67a96697ddc8b01a1b5" }, "street" : "street 1", "number" : 123.0, "city" : "new york", "zipcode" : 656454.0 }
+{ "_id" : { "$oid" : "60a3a67a96697ddc8b01a1b6" }, "street" : "street 2", "number" : 456.0, "city" : "los angeles", "zipcode" : 7.878789788E9 }
+{ "_id" : { "$oid" : "60a3a67a96697ddc8b01a1b7" }, "street" : "baker", "number" : 221.0, "city" : "london", "zipcode" : 678456.0 }
+{ "_id" : { "$oid" : "60a3a67a96697ddc8b01a1b8" }, "street" : "new street", "number" : 444.0, "city" : "paris", "zipcode" : 346883.0 }
